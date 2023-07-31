@@ -1,11 +1,12 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github!</samp></h4>
 
 <p align="center">
-  <img width="100%" src="https://media.giphy.com/media/YPHcJBDYqxq5a/giphy.gif">
+  <img width="100%" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif">
 </p>
 
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif">
+<p align="center" display="flex">
+  <img height="250" src="https://media.giphy.com/media/l2Je7M3HSPR1V3lPW/giphy.gif">
+  <img height="250" src="https://media.giphy.com/media/l2JebQRu8niAaDMGI/giphy.gif">
 </p>
 
 <!--
