@@ -1,4 +1,8 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Zak AFK.</samp></h4>
+
+<p align="center">
+  <img width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+</p>
 
 <!--
 **zakafk/zakafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
