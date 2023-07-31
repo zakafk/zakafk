@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td valign="top"><img height="250" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif"></td>
+        <td colspan="3" valign="top"><img height="250" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif"></td>
     </tr>
   <tr>
     <td valign="top"><img height="250" src="https://media.giphy.com/media/l2Je7M3HSPR1V3lPW/giphy.gif"></td>
