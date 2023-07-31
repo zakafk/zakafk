@@ -1,7 +1,7 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Zak AFK.</samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github!</samp></h4>
 
 <p align="center">
-  <img width="250" src="https://i.gifer.com/3lSI.gif">
+  <img width="250" src="https://i.gifer.com/PYh.gif">
 </p>
 
 <!--
