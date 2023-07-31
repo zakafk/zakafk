@@ -4,11 +4,20 @@
   <img width="100%" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif">
 </p>
 
-<p align="center" display="flex">
+<table>
+  <tr>
+    <td valign="top"><img height="250" src="https://media.giphy.com/media/l2Je7M3HSPR1V3lPW/giphy.gif"></td>
+    <td valign="top"><img height="250" src="https://media.giphy.com/media/l2JebQRu8niAaDMGI/giphy.gif"></td>
+    <td valign="top"><img height="250" src="https://media.giphy.com/media/l0G17ULp0Z0pxtKQE/giphy.gif"></td>
+  </tr>
+</table>
+
+<!-- <p align="center" display="flex">
   <img height="250" src="https://media.giphy.com/media/l2Je7M3HSPR1V3lPW/giphy.gif">
   <img height="250" src="https://media.giphy.com/media/l2JebQRu8niAaDMGI/giphy.gif">
   <img height="250" src="https://media.giphy.com/media/l0G17ULp0Z0pxtKQE/giphy.gif">
 </p>
+-->
 
 <!--
 **zakafk/zakafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
