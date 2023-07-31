@@ -1,6 +1,10 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github!</samp></h4>
 
 <p align="center">
+  <img width="100%" src="https://media.giphy.com/media/YPHcJBDYqxq5a/giphy.gif">
+</p>
+
+<p align="center">
   <img width="100%" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif">
 </p>
 
