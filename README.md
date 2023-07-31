@@ -1,7 +1,7 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github!</samp></h4>
+<h4 align="center"><samp> Hi there 👋  welcome to my Github!</samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/l0MYKMrQnwNvLjYhW/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/L8AdWkDNN8tO0/giphy.gif">
 </p>
 
 <!--
